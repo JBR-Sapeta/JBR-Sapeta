@@ -4,7 +4,7 @@
 I'm a student of extramural studies of computer science at Cracow University of Technology.
 I'm passionate about web application development.
 Over one year ago I fell in love with the possibilities offered by JavaScript. 
-Since that time I practice and develop my frontend and backend skills almost every day
+Since that time I practice and develop my frontend and backend skills almost every day.
 Currently I am working on my own projects and actively looking for new opportunities.
 
 ## 🛠️ Technology & Tools
