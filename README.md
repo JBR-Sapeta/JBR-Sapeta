@@ -1,4 +1,4 @@
-### So Many programing languages and Frameworks, So Little Time !
+### So many frameworks, so Little Time !
 #### My name is Jakub and I'm an aspiring Front-end Developer.
 
 I'm a student of extramural studies of computer science at Cracow University of Technology.
