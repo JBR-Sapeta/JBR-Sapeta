@@ -20,13 +20,14 @@ Currently I am working on my own projects and actively looking for new opportuni
 
 ## 👨‍💻 Projects
 
+### REACT
+-[Great Quotes](https://quotes-app-15e25.web.app/)
+
 ### JS + HTML + SASS
 - [Superb Catering](https://superbcatering.netlify.app/)
 - [Home Design](https://homedesign-js.netlify.app/)
-- Portfolio - coming soon
 
-### REACT
-- Great Quotes - coming soon
+
 
 
 <!---## I'm currently learning
