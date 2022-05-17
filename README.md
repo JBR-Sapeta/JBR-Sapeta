@@ -23,6 +23,10 @@ Currently I am working on my own projects and actively looking for new opportuni
 ### REACT + SCSS
 - [Great Quotes](https://quotes-app-15e25.web.app/)
 
+### Vue
+- LangLand - coming soon
+
+
 ### JS + HTML + SASS
 - [Superb Catering](https://superbcatering.netlify.app/)
 - [Home Design](https://homedesign-js.netlify.app/)
