@@ -20,8 +20,8 @@ Currently I am working on my own projects and actively looking for new opportuni
 
 ## 👨‍💻 Projects
 
-### REACT
--[Great Quotes](https://quotes-app-15e25.web.app/)
+### REACT + SCSS
+- [Great Quotes](https://quotes-app-15e25.web.app/)
 
 ### JS + HTML + SASS
 - [Superb Catering](https://superbcatering.netlify.app/)
