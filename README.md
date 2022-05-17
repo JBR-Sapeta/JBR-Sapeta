@@ -18,7 +18,7 @@ Currently I am working on my own projects and actively looking for new opportuni
 
 
 
-## 👨‍💻 Projects
+## 👨‍💻 My Projects
 
 ### REACT + SCSS
 - [Great Quotes](https://quotes-app-15e25.web.app/)
