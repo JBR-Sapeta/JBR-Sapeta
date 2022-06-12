@@ -27,12 +27,12 @@ Currently I am working on my own projects and actively looking for new opportuni
 ## 👨‍💻 My Projects
 
 ### REACT + SCSS
-- [Great Quotes](https://quotes-app-15e25.web.app/)
+- [Great Quotes](https://quotes-app-15e25.web.app/) 05.2022
 
 
 ### JS + HTML + SASS
-- [Superb Catering](https://superbcatering.netlify.app/)
-- [Home Design](https://homedesign-js.netlify.app/)
+- [Superb Catering](https://superbcatering.netlify.app/) 12.2021
+- [Home Design](https://homedesign-js.netlify.app/)  09.2021
 
 
 
