@@ -26,11 +26,9 @@ Currently I am working on my own projects and actively looking for new opportuni
 
 ## 👨‍💻 My Projects
 
-### REACT TS + Bulma
-- [JSnote](https://jsnote-editor.netlify.app/home) 06.2022
-
-### REACT JS + SCSS
-- [Great Quotes](https://greatequotes.netlify.app/) 05.2022
+### REACT 
+- [JSnote](https://jsnote-editor.netlify.app/home) 06.2022 TS
+- [Great Quotes](https://greatequotes.netlify.app/) 05.2022 JS
 
 ### JS + HTML + SASS
 - [Superb Catering](https://superbcatering.netlify.app/) 12.2021
