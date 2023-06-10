@@ -12,9 +12,9 @@
 
 
 
-###  Full Stack - Express + REACT
+<!-- ###  Full Stack - Express + REACT
  - [WaveUp - REST API]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) 04.2023   
- - WaveUp - Frontend - In Progress
+ - WaveUp - Frontend - In Progress -->
 
 ### REACT  
 - [Great Quotes](https://greatequotes.netlify.app/) 05.2022    
