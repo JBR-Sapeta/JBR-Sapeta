@@ -16,8 +16,7 @@
  - [WaveUp - REST API]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) 04.2023   
  - WaveUp - Frontend - In Progress
 
-### REACT 
- - [JSnote](https://jsnote-editor.netlify.app/) 06.2022      
+### REACT  
 - [Great Quotes](https://greatequotes.netlify.app/) 05.2022    
 
 ### JS + HTML + SASS
