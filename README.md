@@ -16,15 +16,39 @@
  - [WaveUp - REST API]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) 04.2023   
  - WaveUp - Frontend - In Progress -->
 
-### REACT  
-- [Great Quotes](https://greatequotes.netlify.app/) 05.2022    
+### My Projects 
+[WaveUp - Frontend]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) 06.2023   
+ 
+[WaveUp - REST API]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) Express +  04.2023   
+ 
+[Great Quotes](https://greatequotes.netlify.app/) PHP + JS + CSS + SQL + PostgreSQL + Docker 05.2023   
 
-### JS + HTML + SASS
-- [Superb Catering](https://superbcatering.netlify.app/) 12.2021
-- [Home Design](https://homedesign-js.netlify.app/)  09.2021
 
+**FunFits** - 05.2023 -[code](https://github.com/JBR-Sapeta/PHP-FunFits)
+- PHP
+- Javascript
+- CSS
+- SQL (Types, Procedures, Views, Tables written in SQL)
+- PostgreSQL
+- MVC Architecture
+- OOP Patterns
 
+ **Great Quotes** - 05.2022 -[live](https://homedesign-js.netlify.app/)
+- React
+- Firebase
+- Javascript
+- SASS(SCSS)
+- HTML
+ 
+**Home Design** - 12.2021 -[live](https://homedesign-js.netlify.app/) 
+- HTML
+- SASS(SCSS)
+- Javascript
 
+**Superb Catering** - 09.2021 - [live](https://superbcatering.netlify.app/) 
+- HTML
+- SASS(SCSS)
+- Javascript
 
 
 
