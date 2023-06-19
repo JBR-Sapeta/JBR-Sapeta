@@ -24,7 +24,7 @@
 [Great Quotes](https://greatequotes.netlify.app/) PHP + JS + CSS + SQL + PostgreSQL + Docker 05.2023   
 
 
-### FunFits - 05.2023 -[code](https://github.com/JBR-Sapeta/PHP-FunFits)
+### FunFits - 05.2023 - [code](https://github.com/JBR-Sapeta/PHP-FunFits)
 - PHP
 - Javascript
 - CSS
@@ -33,8 +33,18 @@
 - MVC Architecture
 - OOP Patterns
 
+ ### WaveUp - REST API - 04.2023 - [code](https://github.com/JBR-Sapeta/JS--Express--WaveUp)
+- Javascript
+- Express.js
+- Internationalization (Supports English and Polish)
+- Jest (695 integration tests)
+- Mailing (Nodemailer)
+- Swagger Documentation 
+- File Upload (Base64 & multipart/form-data) 
+- Sequelize (With migrations scripts)
+- SQLite & PostgreSQL
  
-### Great Quotes - 05.2022 -[live](https://homedesign-js.netlify.app/)
+### Great Quotes - 05.2022 - [live](https://homedesign-js.netlify.app/)
 - React
 - Firebase
 - Javascript
@@ -42,7 +52,7 @@
 - HTML
  
  
-### Home Design - 12.2021 -[live](https://homedesign-js.netlify.app/) 
+### Home Design - 12.2021 - [live](https://homedesign-js.netlify.app/) 
 - HTML
 - SASS(SCSS)
 - Javascript
