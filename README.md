@@ -34,7 +34,7 @@
 
 
 
-## My Projects 
+## 👨‍💻 My Projects 
 This repository contains a collection of projects that have been designed and written from inception to completion by myself.
 Each project show my knowledge and skills. I am currently working on projects that are more even advanced, to further develop my skills.
 
