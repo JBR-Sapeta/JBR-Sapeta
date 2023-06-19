@@ -17,37 +17,50 @@
  - WaveUp - Frontend - In Progress -->
 
 ## My Projects 
-[WaveUp - Frontend]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) 06.2023   
- 
-[WaveUp - REST API]( https://github.com/JBR-Sapeta/Express--JS--WaveUp--REST-API) Express +  04.2023   
- 
-[Great Quotes](https://greatequotes.netlify.app/) PHP + JS + CSS + SQL + PostgreSQL + Docker 05.2023   
+This repository contains a collection of projects that have been designed and written from inception to completion by myself.
+Each project show my knowledge and skills. I am currently working on projects that are more advanced, to further develop my skills.
+
+ ### WaveUp - Frontend - 06.2023 - [code]( https://github.com/JBR-Sapeta/TS--React--WaveUp)
+- Prototype in Figma
+- TypeScript
+- React.js
+- Vite
+- Internationalization (Support for English and Polish)
+- File Upload (Base64 & multipart/form-data) 
+- Routing (React Router)
+- Custom Hooks
+- Local Storage (With encrypting)
+- JSON Web Token
 
 
 ### FunFits - 05.2023 - [code](https://github.com/JBR-Sapeta/PHP-FunFits)
+- Prototype in Figma
 - PHP
-- Javascript
+- JavaScript
 - CSS
 - SQL (Types, Procedures, Views, Tables written in SQL)
 - PostgreSQL
 - MVC Architecture
 - OOP Patterns
 
+ 
  ### WaveUp - REST API - 04.2023 - [code](https://github.com/JBR-Sapeta/JS--Express--WaveUp)
-- Javascript
+- JavaScript
 - Express.js
-- Internationalization (Supports English and Polish)
+- Internationalization (Support for English and Polish)
 - Jest (695 integration tests)
 - Mailing (Nodemailer)
 - Swagger Documentation 
 - File Upload (Base64 & multipart/form-data) 
 - Sequelize (With migrations scripts)
 - SQLite & PostgreSQL
+- JSON Web Token
+ 
  
 ### Great Quotes - 05.2022 - [live](https://homedesign-js.netlify.app/)
 - React
 - Firebase
-- Javascript
+- JavaScript
 - SASS(SCSS)
 - HTML
  
@@ -55,13 +68,13 @@
 ### Home Design - 12.2021 - [live](https://homedesign-js.netlify.app/) 
 - HTML
 - SASS(SCSS)
-- Javascript
+- JavaScript
 
  
 ### Superb Catering - 09.2021 - [live](https://superbcatering.netlify.app/) 
 - HTML
 - SASS(SCSS)
-- Javascript
+- JavaScript
 
 
 
