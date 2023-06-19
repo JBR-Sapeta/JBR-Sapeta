@@ -49,7 +49,7 @@ Each project show my knowledge and skills. I am currently working on projects th
 - Custom Hooks
 - Local Storage (With encrypting)
 - JSON Web Token
-
+- RWD
 
 ### FunFits - 05.2023 - [code](https://github.com/JBR-Sapeta/PHP-FunFits)
 - Prototype in Figma
@@ -61,7 +61,7 @@ Each project show my knowledge and skills. I am currently working on projects th
 - MVC Architecture
 - Design Patterns
 - OOP 
-
+- RWD
  
  ### WaveUp - REST API - 04.2023 - [code](https://github.com/JBR-Sapeta/JS--Express--WaveUp)
 - JavaScript
@@ -82,18 +82,19 @@ Each project show my knowledge and skills. I am currently working on projects th
 - JavaScript
 - SASS(SCSS)
 - HTML
- 
+- RWD
  
 ### Home Design - 12.2021 - [live](https://homedesign-js.netlify.app/) 
 - HTML
 - SASS(SCSS)
 - JavaScript
-
+- RWD
  
 ### Superb Catering - 09.2021 - [live](https://superbcatering.netlify.app/) 
 - HTML
 - SASS(SCSS)
 - JavaScript
+- RWD
 
 
 
