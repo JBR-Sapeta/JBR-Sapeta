@@ -59,7 +59,8 @@ Each project show my knowledge and skills. I am currently working on projects th
 - SQL (Types, Procedures, Views, Tables written in SQL)
 - PostgreSQL
 - MVC Architecture
-- OOP Patterns
+- Design Patterns
+- OOP 
 
  
  ### WaveUp - REST API - 04.2023 - [code](https://github.com/JBR-Sapeta/JS--Express--WaveUp)
